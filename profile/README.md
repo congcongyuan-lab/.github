@@ -1,17 +1,10 @@
 ## Hi there 👋
 
-Yuan’s group is dedicated to enhancing geophysical intelligence to better understand and manage engineered and natural solid Earth systems.
+- 👤 We are geophysicists and civil engineers who are dedicated to enhancing geophysical intelligence to better understand and manage engineered and natural solid Earth systems.
 
-## 👤 About us
+## 📥 Contact us
 
-We are geophysicists and civil engineers in xxx
-
-- 💬 Ask us about earthquake seismology, ambient noise, explorational geophysics, machine learning in seismology, and hydro-thermal fracture mechanics.
-
-## 📥 Contact me
-
-- 📩 Email [congcy07@gmail.com](congc@gmail.com)
-- 🏠 Personal website [congcy.github.io](https://congcy.github.io/)
+- 📩 Email [cyuan.lab@gmail.com](cyuan.lab@gmail.com)
 - 🏠 Yuan Lab website []
 - 💬 WeChat [congcy007]
 - 🐦 Twitter
@@ -25,6 +18,7 @@ We are geophysicists and civil engineers in xxx
 - 🧪 Fundamental Fluid–Solid Interaction Geomechanics
 - 🚀 Unconventional Geophysics
 
+- 💬 Talk to us about earthquakes, ambient noise, applied geophysics, machine learning in geoscience and engineering, geo-resource reservoirs, and ideas beyond geophysics and geomechanics. 
 
 
 ## 📚 Statistics
