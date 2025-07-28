@@ -18,5 +18,5 @@
 - 🧪 Fundamental Fluid–Solid Interaction Geomechanics
 - 🚀 Unconventional Geophysics
 
-💬  Talk to us about earthquakes, ambient noise, applied geophysics, machine learning in geoscience and engineering, geo-resource reservoirs, and ideas beyond geophysics and geomechanics. 
+💬  Talk to us about earthquakes, ambient noise, applied geophysics, machine learning in geoscience and engineering, geo-resource reservoirs, environment and energy sustainability, and ideas beyond geophysics and geomechanics. 
 
