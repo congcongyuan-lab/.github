@@ -35,4 +35,4 @@ We are geophysicists and civil engineers in xxx
 
 </div>
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-CongcongYuan-red)](https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en)<img width="1276" height="1624" alt="image" src="https://github.com/user-attachments/assets/9068fcea-ccd2-4b65-942d-0a06ef42620a" />
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-CongcongYuan-red)](https://scholar.google.com.hk/citations?user=Q3ghx0YAAAAJ&hl=en)
