@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 👤  We are geophysicists and civil engineers who are dedicated to enhancing geophysical intelligence to better understand and manage engineered and natural solid Earth systems.
+ 👤  We are geophysicists and geoengineers who are dedicated to enhancing geophysical intelligence to better understand and manage engineered and natural solid Earth systems.
 
 ## 💡 Research interests
 
